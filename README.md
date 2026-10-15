@@ -20,12 +20,6 @@
 | **Trust that is earned** | Task types climb from shadow mode to project mode on evidence, and drop a stage on any revert. |
 | **Never silent** | Every failure names its cause with a number, in the console and in the Linear comment. |
 
-### Projects
-
-| Project | What it is | Status |
-| --- | --- | --- |
-| [**unattended**](https://github.com/unattended-factory/unattended) | The installer, CLI and web console. TOON configs, nginx deploy, design system. | pre-alpha, built in the open |
-
 ### Author
 
 Built in the open by **[Mihail Gorelikov](https://github.com/mikegorelikoff)**. Star [unattended](https://github.com/unattended-factory/unattended), follow [@mikegorelikoff](https://github.com/mikegorelikoff) and this account: the first release will land here.

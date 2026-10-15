@@ -4,24 +4,35 @@
 
 <p align="center">
   <a href="https://unattended.unmerged.tech"><b>unattended.unmerged.tech</b></a> ·
-  <a href="https://github.com/unattended-factory/unattended"><b>Repository</b></a>
+  <a href="https://github.com/unattended-factory/unattended"><b>Repository</b></a> ·
+  <a href="https://github.com/mikegorelikoff">Author</a>
 </p>
 
 ---
 
-### What we build
+### The lights are about to go off
 
-**unattended** is a dark software factory. Your Linear backlog goes in. Verified, gated, merged pull requests come out of GitHub. A person is paged only when something needs one.
+**unattended** is a dark software factory. Your Linear backlog goes in. Verified, gated pull requests come out, and GitHub does the merging. A person is paged only when something needs one.
 
-|  |  |
+It is a work in progress, and it is being built in the open.
+
+### What's coming
+
+| | |
 | --- | --- |
-| **Independent verification** | A different model and held-out scenarios grade every change. The Builder never marks its own work. |
-| **Metered to the cent** | Every call is counted before it is made, per issue and per day. Cost per accepted change, on one screen. |
-| **Trust that is earned** | Task types climb from shadow mode to project mode on evidence, and drop a stage on any revert. |
-| **Never silent** | Every failure names its cause with a number, in the console and in the Linear comment. |
+| **A backlog that works itself** | Label an issue and it is picked up. No new tool to learn. |
+| **A second opinion on every change** | The author never grades its own work. |
+| **Merges you can accept without reading** | GitHub has the last word, always. |
+| **A console that stays quiet** | One glance, a few times a day. One amber light when it needs you. |
 
-### Author
+### Projects
 
-Built in the open by **[Mihail Gorelikov](https://github.com/mikegorelikoff)**. Wait for [unattended](https://github.com/unattended-factory/unattended), follow [@mikegorelikoff](https://github.com/mikegorelikoff) and this account: the first release will land here.
+| Project | Status |
+| --- | --- |
+| [**unattended**](https://github.com/unattended-factory/unattended) | Work in progress. First release coming. |
 
-<sub>Runs with the lights off. Tells you when it needs you. · Apache 2.0</sub>
+### Follow along
+
+Star [unattended](https://github.com/unattended-factory/unattended) to see it land, and follow [@mikegorelikoff](https://github.com/mikegorelikoff). Built by **Mihail Gorelikov**.
+
+<sub>Runs with the lights off. Tells you when it needs you.</sub>

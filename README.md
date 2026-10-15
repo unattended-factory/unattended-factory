@@ -22,6 +22,6 @@
 
 ### Author
 
-Built in the open by **[Mihail Gorelikov](https://github.com/mikegorelikoff)**. Star [unattended](https://github.com/unattended-factory/unattended), follow [@mikegorelikoff](https://github.com/mikegorelikoff) and this account: the first release will land here.
+Built in the open by **[Mihail Gorelikov](https://github.com/mikegorelikoff)**. Wait for [unattended](https://github.com/unattended-factory/unattended), follow [@mikegorelikoff](https://github.com/mikegorelikoff) and this account: the first release will land here.
 
 <sub>Runs with the lights off. Tells you when it needs you. · Apache 2.0</sub>

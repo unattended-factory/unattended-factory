@@ -26,8 +26,8 @@
 | --- | --- | --- |
 | [**unattended**](https://github.com/unattended-factory/unattended) | The installer, CLI and web console. TOON configs, nginx deploy, design system. | pre-alpha, built in the open |
 
-### Follow along
+### Author
 
-Star [unattended](https://github.com/unattended-factory/unattended) and follow this account: the first release will land here.
+Built in the open by **[Mike Gorelikov](https://github.com/mikegorelikoff)**. Star [unattended](https://github.com/unattended-factory/unattended), follow [@mikegorelikoff](https://github.com/mikegorelikoff) and this account: the first release will land here.
 
-<sub>Runs with the lights off. Tells you when it needs you.</sub>
+<sub>Runs with the lights off. Tells you when it needs you. · Apache 2.0</sub>
